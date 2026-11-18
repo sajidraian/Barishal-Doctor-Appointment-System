@@ -1,0 +1,9 @@
+build/
+dist/
+*.class
+nbproject/private/
+*.jar
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
